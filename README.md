@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Desh 👋🏾. &nbsp; </h2>
 
-- 🪵 Work: Android ML @ Google.
+- 🪵 Work: Confidential Neural Compute @ Google.
 
 - 🪵 I’m looking to collaborate on: Shipping stuff.
 
